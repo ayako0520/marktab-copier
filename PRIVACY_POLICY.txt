@@ -1,0 +1,20 @@
+Privacy Policy for MarkTab Copier
+
+Last Updated: March 1, 2026
+
+MarkTab Copier does not collect, store, or transmit any user data.
+
+Data Collection:
+• We do NOT collect any personal information
+• We do NOT track your browsing history
+• We do NOT use analytics or telemetry
+• We do NOT share any data with third parties
+
+Permissions Explained:
+• "activeTab" - Required to read the current tab's title and URL when you click the copy button
+• "tabs" - Required to access all tabs when you use "Copy All Tabs" feature
+
+All data processing happens locally in your browser. Nothing is sent to external servers.
+
+Contact:
+If you have questions about this privacy policy, please contact us through the Chrome Web Store support page.
